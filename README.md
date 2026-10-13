@@ -27,7 +27,7 @@ These projects have their own repositories and remain the primary place for thei
 
 ## Reading the collections
 
-Each subject repository explains its scope, source provenance and validation status. Recovered exercises retain course and collaborator attribution. Passing a syntax or assembly check is distinguished from a verified experiment or hardware run. The FPGA recordings are original demonstrations; their release includes portable MP4 files.
+Each subject repository explains its scope, source provenance and validation status. Course origins, collaborator credits and third-party acknowledgments are collected in [Portfolio attribution](ATTRIBUTION.md). Passing a syntax or assembly check is distinguished from a verified experiment or hardware run. The FPGA recordings are original demonstrations; their release includes portable MP4 files.
 
 The public collections select meaningful code and project context from the recovered work. Full instructor handouts, answer keys, grades, private student information, generated IDE/build files, duplicate files and unrelated written assignments stay outside these repositories. Some unfinished exercises remain documented as historical drafts or are deferred. The original private archive remains available as a backup.
 
