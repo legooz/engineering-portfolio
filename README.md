@@ -1,12 +1,12 @@
 # Engineering portfolio
 
-An index of Lars Goozen's software, hardware and computational engineering projects. Browse by subject instead of searching a semester-based coursework archive.
+An index of software, hardware and computational engineering projects. Browse by subject instead of searching a semester-based coursework archive.
 
 ## Browse by subject
 
 | Subject | Repository | Start with |
 |---|---|---|
-| RISC-V, FPGA and digital logic | [riscv-fpga-lab](https://github.com/legooz/riscv-fpga-lab) | Single-cycle LUI/XOR extension, ALU tests and seven Basys 3 demonstration videos |
+| RISC-V, FPGA and digital logic | [riscv-fpga-lab](https://github.com/legooz/riscv-fpga-lab) | [T-Bird Tail Lights Project](https://github.com/legooz/riscv-fpga-lab/tree/main/fpga/t-bird-tail-lights), LUI/XOR processor, ALU tests and seven board videos |
 | ARM assembly | [arm-assembly-lab](https://github.com/legooz/arm-assembly-lab) | Array traversal, conditionals, min/max and a search subroutine; historical limitations documented |
 | Low-level C/C++ and systems programming | [c-cpp-portfolio](https://github.com/legooz/c-cpp-portfolio) | Curated programs, concurrency/parallelism and recovered historical exercises |
 | Algorithms and data structures | [algorithms-and-data-structures](https://github.com/legooz/algorithms-and-data-structures) | Python notebooks and implementations organized by topic |
